@@ -8,7 +8,7 @@ This version is for the ESP32-S3-DevKitC-1 and an ILI9488 screen with resistive 
 
 #define ILI9488_DRIVER     // WARNING: Do not connect ILI9488 display SDO to MISO if other devices share the SPI bus (TFT SDO does NOT tristate when CS is high)
 
-#define TFT_BL    15            // LED back-light control pin
+#define TFT_BL    7            // LED back-light control pin
 #define TFT_BACKLIGHT_ON HIGH  // Level to turn ON back-light (HIGH or LOW)
 
 #define TFT_MISO  13
@@ -18,7 +18,7 @@ This version is for the ESP32-S3-DevKitC-1 and an ILI9488 screen with resistive 
 #define TFT_DC    6  // Data Command control pin
 #define TFT_RST   5  // Reset pin (could connect to RST pin)
 
-#define TOUCH_CS  16     // Chip select pin (T_CS) of touch screen
+#define TOUCH_CS  15     // Chip select pin (T_CS) of touch screen
 
 #define LOAD_GLCD   // Font 1. Original Adafruit 8 pixel font needs ~1820 bytes in FLASH
 #define LOAD_FONT2  // Font 2. Small 16 pixel high font, needs ~3534 bytes in FLASH, 96 characters
