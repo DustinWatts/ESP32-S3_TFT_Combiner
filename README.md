@@ -23,7 +23,13 @@ Pins used by the screen, touchcontroller and SD card are:
 
 ## The ESP32
 
-The ESP32 for this board is the ESP32-S3-DevKitC-1. Which is currently sold by Mouser, DigiKey, Adafruit, MakerFabs
+The ESP32 for this board is the ESP32-S3-DevKitC-1. Which is currently sold by:
+- <a href="https://www.mouser.com/c/?q=ESP32-S3-DevKitC-1" target="_blank">Mouser</a>
+
+- Mouser
+- DigiKey
+- Adafruit
+- MakerFabs
 
 ## The Touchsceen
 
