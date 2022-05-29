@@ -62,6 +62,7 @@ The touchscreen used with this board is a 3.5" ILI9488 TFT with XPT2046 touchcon
 _* Afilliate link_
 
 ***Note: When you but the ILI9488 make sure you select the option "With Touch" if you have the possibility to do so!***
+
 <img src="https://github.com/DustinWatts/ESP32-S3_TFT_Combiner/blob/main/Assets/with_touch.png" alt="ILI9488 select with Touch"/>
 
 ## The User_Setup.h
