@@ -50,8 +50,10 @@ _* Afilliate link_
 
 The User_Setup.h file in the folder with the same name is the User_Setup.h file you need to use the combiner PCB with the [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI "TFT_eSPI lbrary by Bodmer") lbrary by Bodmer. Overwrite the contents of the original file and TFT_eSPI is now configured for use with the combiner board.
 
+## FreeTouchDeck
 
+FreeTouchDeck is currently being updated so it also supports the ESP32-S3. This also includes support for using the ESP32-S3 USB Keyboard HID. You can find the latest version here: https://github.com/DustinWatts/FreeTouchDeck. The updates are not in any release yet, you so you will have to download the source and compile it yourself. Hopefully this the next release will include ESP32-S3 support.
 
 ## The Case
 
-The case was originally designed for the ESP32 and TFT combiner PCB. But since the deminsions are the same, the case is also the same. You can find the .stl files to prin your own case in this repo in the folder called "Case".
+The case was originally designed for the ESP32 + TFT combiner PCB and for use with FreeTouchDeck. But since the deminsions are the same, the case is also the same. You can find the .stl files to prin your own case in this repo in the folder called "3D Printable Case".
