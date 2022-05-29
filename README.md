@@ -1,3 +1,11 @@
+Todo before going public:
+
+- Photo PCB
+- Image screen
+- Image DevKit
+- Share PCB on PCBWay
+
+
 # ESP32-S3-DevKitC-1 + Touchscreen Combiner PCB
 A PCB making it easy to combine an ESP32-S3-DevKitC-1 and an ILI9488 TFT + XPT2046 Touchsceen.
 
