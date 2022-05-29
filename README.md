@@ -1,9 +1,11 @@
 Todo before going public:
 
-- Photo PCB
-- Image screen
-- Image DevKit
-- Share PCB on PCBWay
+- [ ] Photo PCB
+- [ ] Image screen
+- [ ] Image DevKit
+- [ ] Share PCB on PCBWay
+- [ ] Complete List of GPIO's used
+- [ ] Make Tindie Listing for PCB + Headers
 
 
 # ESP32-S3-DevKitC-1 + Touchscreen Combiner PCB
