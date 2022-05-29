@@ -17,7 +17,7 @@ The PCB is designed in KiCad and uses 22-pin double row headers for the ESP32-S3
 
 Pins used by the screen, touchcontroller and SD card are:
 
-|GPIO|Function|
+| ESP32-S3 | Function |
 |---|---|
 | GPIO4  | SD_SELECT  |
 | GPIO5  | TFT_RESET  |
