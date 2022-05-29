@@ -1,5 +1,5 @@
 # ESP32-S3-DevKitC-1 + Touchscreen Combiner PCB
-A PCB making it easy to combine an ESP32-S3 and an ILI9488 TFT + XPT2046 Touchsceen.
+A PCB making it easy to combine an ESP32-S3-DevKitC-1 and an ILI9488 TFT + XPT2046 Touchsceen.
 
 ## The PCB
 
