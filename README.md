@@ -32,9 +32,9 @@ Pins used by the screen, touchcontroller and SD card are:
 
 And off course 3V3 and GND are connected to the screen.
 
-## The ESP32
+## The ESP32-S3
 
-The ESP32 for this board is the ESP32-S3-DevKitC-1. Which is currently sold by:
+The ESP32-S3 for this board is the ESP32-S3-DevKitC-1. Which is currently sold by:
 - [Mouser](https://www.mouser.com/c/?q=ESP32-S3-DevKitC-1 "ESP32-S3-DevKitC-1 on Mouser")
 - [DigiKey](https://www.digikey.nl/en/products/filter/rf-evaluation-and-development-kits-boards/859?s=N4IgTCBcDaIKIGUAKBmMBaBL0BECmAbgNICWALgMLoCMIAugL5A "ESP32-S3-DevKitC-1 on DigiKey")
 - [Adafruit](https://www.adafruit.com/?q=ESP32-S3-DevKitC-1&sort=BestMatch "ESP32-S3-DevKitC-1 on Adafruit")
@@ -42,7 +42,10 @@ The ESP32 for this board is the ESP32-S3-DevKitC-1. Which is currently sold by:
 
 ## The Touchsceen
 
-The touchscreen used with this board is a 3.5" ILI9488 TFT with XPT2046 touchcontroller. You can find the screen here: https://s.click.aliexpress.com/e/_AMAa6B *
+The touchscreen used with this board is a 3.5" ILI9488 TFT with XPT2046 touchcontroller. You can find the screen here: 
+
+- [AliExpress](https://s.click.aliexpress.com/e/_AMAa6B "Buy the ILI9488 with Touch on AliExpress") *
+- [Amazon](https://amzn.to/3z2bf3f "Buy the ILI9488 with Touch on AliExpress") *
 
 _* Afilliate link_
 
