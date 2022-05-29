@@ -2,7 +2,7 @@
 
 Copy the contents of this file to TFT_eSPI-master/User_setup.h 
 
-This version is for a 38-pin ESP32-S3 DevKitC and an ILI9488 screen with resistive touch controller.
+This version is for the ESP32-S3-DevKitC-1 and an ILI9488 screen with resistive touch controller.
 
 */
 
