@@ -16,11 +16,9 @@ Todo before going public:
 [![](https://badgen.net/badge/watch/Buy%20from%20PCBWay/028A0F)](https://www.pcbway.com)
 [![](https://img.shields.io/twitter/follow/DustinWattsNL)](https://twitter.com/DustinWattsNL)
 
+<img src="/Assets/img2.png" alt="ESP32-S3-DevKitC-1 + Touchscreen Combiner PCB" width="720"/>
+
 A PCB making it easy to combine an ESP32-S3-DevKitC-1 and an ILI9488 TFT + XPT2046 Touchsceen.
-
-## Order a PCB + headers kit from me
-
-On Tindie I sell a kit containing all the PCB and alle the male and female headers you need. Al you have to do is source the screen and the ESP32-S3-DevKitC-1. [Order the PCB + header kit from Tindie](https://www.tindie.com/products/dustinwattsnl/esp32-touchdown "Order the combiner and male and female headers me, via Tindie")
 
 ## Order directly from PCBWay
 
