@@ -3,7 +3,7 @@
 [![](https://badgen.net/github/release/DustinWatts/ESP32-S3_TFT_Combiner)](https://github.com/DustinWatts/ESP32-S3_TFT_Combiner/releases)
 [![](https://img.shields.io/discord/693862273864827012?color=5165f6&label=chat%20on%20Discord)](https://discord.gg/RE3XevS)
 [![](https://badgen.net/github/license/DustinWatts/ESP32-S3_TFT_Combiner/)](https://raw.githubusercontent.com/DustinWatts/ESP32-S3_TFT_Combiner/main/LICENSE)
-[![](https://badgen.net/badge/Buy%20from/PCBWay/green)](https://www.pcbway.com)
+[![](https://badgen.net/badge/Buy%20from/PCBWay/green)](https://www.pcbway.com/project/shareproject/ESP32_S3_TFT_Combiner_V1_92bd8d61.html)
 [![](https://img.shields.io/twitter/follow/DustinWattsNL)](https://twitter.com/DustinWattsNL)
 
 <img src="/Assets/img2.png" alt="ESP32-S3-DevKitC-1 + Touchscreen Combiner PCB" width="720"/>
