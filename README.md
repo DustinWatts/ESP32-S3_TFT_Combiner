@@ -1,13 +1,3 @@
-Todo before going public:
-
-- [ ] Photo PCB
-- [x] Image screen
-- [x] Image DevKit
-- [x] Share PCB on PCBWay
-- [x] Complete List of GPIO's used
-- [ ] Make Tindie Listing for PCB + Headers
-
-
 # ESP32-S3-DevKitC-1 + Touchscreen Combiner PCB
 [![](https://badgen.net/github/last-commit/DustinWatts/ESP32-S3_TFT_Combiner)](https://github.com/DustinWatts/ESP32-S3_TFT_Combiner/commits/master)
 [![](https://badgen.net/github/release/DustinWatts/ESP32-S3_TFT_Combiner)](https://github.com/DustinWatts/ESP32-S3_TFT_Combiner/releases)
@@ -18,7 +8,7 @@ Todo before going public:
 
 <img src="/Assets/img2.png" alt="ESP32-S3-DevKitC-1 + Touchscreen Combiner PCB" width="720"/>
 
-A PCB making it easy to combine an ESP32-S3-DevKitC-1 and an ILI9488 TFT + XPT2046 Touchsceen.
+A PCB making it easy to combine an ESP32-S3-DevKitC-1 and an ILI9488 TFT + XPT2046 Touchsceen. ***On big adavantage of the ESP32-S3 is that is has USB HID support. So you can use the extra USB port on the DevKitC to connect to your computer, so you can use a USB Keyboard instead of BLE!*** FreeTouchDeck already support this.
 
 ## Order directly from PCBWay
 
