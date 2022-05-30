@@ -3,7 +3,7 @@ Todo before going public:
 - [ ] Photo PCB
 - [x] Image screen
 - [x] Image DevKit
-- [ ] Share PCB on PCBWay
+- [x] Share PCB on PCBWay
 - [x] Complete List of GPIO's used
 - [ ] Make Tindie Listing for PCB + Headers
 
@@ -24,7 +24,7 @@ On Tindie I sell a kit containing all the PCB and alle the male and female heade
 
 ## Order directly from PCBWay
 
-You can order the PCB's directly from PCBWay here: [Order PCBs from PCBWay](https://www.pcbway.com/project/shareproject/ESP32_TFT_Combiner_V1.html "Order the combiner board directly from PCBWay")
+You can order the PCB's directly from PCBWay here: [Order PCBs from PCBWay](https://www.pcbway.com/project/shareproject/ESP32_S3_TFT_Combiner_V1_92bd8d61.html "Order the combiner board directly from PCBWay")
 
 ## Download Gebers and use your own fab house
 
